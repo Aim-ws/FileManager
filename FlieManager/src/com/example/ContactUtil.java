@@ -13,6 +13,11 @@ import android.provider.ContactsContract.RawContacts.Data;
 import android.util.Log;
 
 public class ContactUtil {
+	
+	
+	
+	
+	
 	private static final String TAG = "ContactUtil";	
 	/**
 	 * 查询所有联系人姓名及电话号码
